@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HWGdesign/cards/static/css/main.bfca7fed.css",
+    "main.js": "/HWGdesign/cards/static/js/main.e5c55b87.js",
+    "static/js/787.8517b185.chunk.js": "/HWGdesign/cards/static/js/787.8517b185.chunk.js",
+    "index.html": "/HWGdesign/cards/index.html",
+    "main.bfca7fed.css.map": "/HWGdesign/cards/static/css/main.bfca7fed.css.map",
+    "main.e5c55b87.js.map": "/HWGdesign/cards/static/js/main.e5c55b87.js.map",
+    "787.8517b185.chunk.js.map": "/HWGdesign/cards/static/js/787.8517b185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfca7fed.css",
+    "static/js/main.e5c55b87.js"
+  ]
+}
