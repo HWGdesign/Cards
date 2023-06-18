@@ -29,7 +29,7 @@ export default function CardFree() {
 
         <div className=" h-auto py-2 px-11">
           <ul className="grid gap-1">
-            <li>
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>

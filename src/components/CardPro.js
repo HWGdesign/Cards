@@ -29,31 +29,31 @@ export default function CardPro() {
 
         <div className=" h-auto py-2 px-11">
           <ul className="grid gap-1">
-            <li>
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>
               All Features
             </li>
-            <li>
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>
               Enhanced Security
             </li>
-            <li>
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>
               Team collaboration
             </li>
-            <li>
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>
               Unlimited Storage
             </li>
-            <li>
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>

@@ -33,23 +33,23 @@ export default function CardStandard() {
 
         <div className=" h-auto py-2 px-11">
           <ul className="grid gap-1">
-            <li className="text-violet-700">
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
                 <i class="bi bi-check-circle-fill text-violet-700"></i>
               </span>
               Advanced Features
             </li>
 
-            <li className="text-violet-700">
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
-                <i class="bi bi-check-circle-fill text-violet-700"></i>
+                <i class="bi bi-check-circle-fill text-violet-700 "></i>
               </span>
               Increased Storage
             </li>
 
-            <li className="text-violet-700">
+            <li className="text-violet-700 font-semibold">
               <span className="p-3">
-                <i class="bi bi-check-circle-fill text-violet-700"></i>
+                <i class="bi bi-check-circle-fill text-violet-700 "></i>
               </span>
               Priority Support
             </li>
