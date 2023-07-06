@@ -1,6 +1,8 @@
 ## PROJECT: Cards
 The project is to show in an elegant way the types of services and the promotion of individual offers for the user.
-  
+
+![cards](https://github.com/HWGdesign/Cards/assets/132587901/321ee9ba-5d8d-4312-8ac6-fb60db1a9c74)
+
 ### Code with:
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
